@@ -1,0 +1,4 @@
+bot: hi there 
+You: how are you?
+Bot: im good you tell
+You: get lost.
